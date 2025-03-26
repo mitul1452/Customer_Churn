@@ -1,4 +1,4 @@
-# Customer_Churn
+# Customer_Churn Analysis
 1) This project is all about a behaviour of customers.
 2) By this we can show which customer come again shop or which is not.
 3) And by that a shopkeeper can see what is the reason if customer not come again.
